@@ -1,0 +1,5 @@
+.card:hover .text {
+  transition: all 0.3s ease;
+  opacity: 1;
+  max-height: 40px;
+}
